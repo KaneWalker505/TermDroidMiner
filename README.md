@@ -13,7 +13,7 @@ CPU sha256 Crypto miner for ARMV8 Android.
 
 tested and working on the following mining node pool servers
 
-solo.ckpool.org
+solo.ckpool.org | 
 zpool.ca
 
 
