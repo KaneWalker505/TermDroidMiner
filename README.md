@@ -1,4 +1,6 @@
 # TermDroidMiner
+
+
 Android termux (terminal) sha256d crypto miner
 SOLO MINER
 
@@ -7,6 +9,8 @@ THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and min
 
 
 **INFO**
+
+
 CPU sha256 Crypto miner for ARMV8 Android.
 
 (Average Hashrate | 150khz/sec Hash Rate)
@@ -18,6 +22,8 @@ zpool.ca
 
 
 **NOTE**
+
+
 This is a *SOLO MINER*
 
 IT WILL **NOT** attempt to send shares of lower difficulty it will ignore
@@ -36,6 +42,8 @@ is sent to mining node server.
 THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and mine the entire block ONLY
 
 **Example Command**
+
+
 ./TAM -h   (List help command example) 
 
 
