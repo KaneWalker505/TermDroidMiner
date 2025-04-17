@@ -73,3 +73,10 @@ So stratum difficulty is just set by pools and reflects the kinds of hardware an
 It has nothing to do with the actual BLOCK hash difficulty of the crypto block itself when solo mining
 
 
+**TERMUX INSTALL**
+
+pkg install https://github.com/KaneWalker505/TermDroidMiner/releases/download/Release/tam_1.2_aarch64.deb
+
+OR
+
+apt install https://github.com/KaneWalker505/TermDroidMiner/releases/download/Release/tam_1.2_aarch64.deb
