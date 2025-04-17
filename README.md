@@ -25,6 +25,8 @@ share jobs and share accepts completely
 
 
 THIS miner is coded to ONLY work as a SOLO MINER
+it was coded with mobile in mind, it saves on network data and bandwith by not mining shares but attempting to solve and mine the block only itself. This means it will use VERY little networking/internet data.
+
 
 The Miner works like so:
 
