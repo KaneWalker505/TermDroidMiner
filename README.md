@@ -52,3 +52,24 @@ THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and min
 You can run without arguments aswell
 if you run the program without arguments, the default zpool server will be used on port 3333
 the miner will ask for input of your wallet and password then after.
+
+
+
+**mining stratum difficulty**
+
+You wont need to worry about mining stratum difficulty
+
+Can 100% ingore mining stratum difficulty when using this miner
+
+
+Sense it attempts to ONLY solo mine the block hash itself
+
+mining stratum difficulty is only used when mining shares of the block.
+
+Sense this miner does not attempt to hash or mine shares this can be ignored
+
+So stratum difficulty is just set by pools and reflects the kinds of hardware and software used and how many miners there are, and is low enough so that all miners with adequate hashpower can share in blocks found
+
+It has nothing to do with the actual BLOCK hash difficulty of the crypto block itself when solo mining
+
+
