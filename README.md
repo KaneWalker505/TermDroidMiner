@@ -36,7 +36,9 @@ is sent to mining node server.
 THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and mine the entire block ONLY
 
 **Example Command**
-./TAM -h   (List help command example)
+./TAM -h   (List help command example) 
+
+
 ./TAM ServerAddress Port Wallet Password
 
 You can run without arguments aswell
