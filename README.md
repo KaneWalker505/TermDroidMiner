@@ -33,3 +33,10 @@ is sent to mining node server.
 
 THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and mine the entire block ONLY
 
+**Example Command**
+./TAM -h   (List help command example)
+./TAM ServerAddress Port Wallet Password
+
+You can run without arguments aswell
+if you run the program without arguments, the default zpool server will be used on port 3333
+the miner will ask for input of your wallet and password then after.
