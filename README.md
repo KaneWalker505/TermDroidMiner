@@ -36,7 +36,7 @@ it was coded with mobile in mind, it saves on network data and bandwith by not m
 
 The Miner works like so:
 
-After Server / Wallet input the miner will attempy to find a block hash that meets the difficulty target by adjusting the nonce value and repeatedly hashing the block header. Once a valid hash meets target requirment of network block. Result
+After Server / Wallet input the miner will attempt to find a block hash that meets the difficulty target by adjusting the nonce value and repeatedly hashing the block header. Once a valid hash meets target requirment of network block. Result
 is sent to mining node server.
 
 THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and mine the entire block ONLY
