@@ -100,6 +100,6 @@ chmod 777 TAM
 
 **EXAMPLE MINE SOLO BLOCK**
 
-TAM solo.ckpool.org 3333 3P9XN5V1SY7B8N1D5vHpyKjbYxTJoYQXox x
+TAM solo.ckpool.org 3333 3P9XN5V1SY7B8N1D5vHpyKjbYxTJoYQXot x
 
 
