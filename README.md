@@ -11,7 +11,7 @@ THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and min
 **INFO**
 
 
-CPU sha256 Crypto miner for ARMV8 Android.
+CPU sha256 Crypto miner for ARMV8 Android. (NOW with x64 Linux Support)
 
 (Average Hashrate | 150khz/sec Hash Rate)
 
