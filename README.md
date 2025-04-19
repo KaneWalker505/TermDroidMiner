@@ -88,3 +88,13 @@ TAM
 apt install tam_1.2_aarch64.deb
 
 TAM
+
+
+**OR**
+
+wget https://github.com/KaneWalker505/TermDroidMiner/releases/download/Release/TAM
+
+chmod 777 TAM
+
+./TAM 
+
