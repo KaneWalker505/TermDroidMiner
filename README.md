@@ -50,7 +50,7 @@ THIS MINER DOES NOT send shares of lower difficulty it attempts to solve and min
 ./TAM ServerAddress Port Wallet Password
 
 You can run without arguments aswell
-if you run the program without arguments, the default zpool server will be used on port 3333
+if you run the program without arguments, the default ckpool server will be used on port 3333
 the miner will ask for input of your wallet and password then after.
 
 
