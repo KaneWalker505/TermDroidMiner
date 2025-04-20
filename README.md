@@ -92,7 +92,7 @@ TAM
 
 **OR**
 
-wget https://github.com/KaneWalker505/TermDroidMiner/releases/download/Release/TAM
+wget https://github.com/KaneWalker505/TermDroidMiner/releases/download/V1.3/TAM
 
 chmod 777 TAM
 
