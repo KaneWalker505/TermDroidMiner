@@ -79,13 +79,13 @@ pkg install wget
 
 wget https://github.com/KaneWalker505/TermDroidMiner/releases/download/Release/tam_1.2_aarch64.deb
 
-pkg install tam_1.2_aarch64.deb
+pkg install ./tam_1.2_aarch64.deb
 
 TAM
 
 **OR**
 
-apt install tam_1.2_aarch64.deb
+apt install ./tam_1.2_aarch64.deb
 
 TAM
 
