@@ -77,15 +77,15 @@ It has nothing to do with the actual BLOCK hash difficulty of the crypto block i
 
 pkg install wget
 
-wget https://github.com/KaneWalker505/TermDroidMiner/releases/download/Release/tam_1.2_aarch64.deb
+wget https://github.com/KaneWalker505/TermDroidMiner/releases/download/Release/tam_1.3_aarch64.deb
 
-pkg install ./tam_1.2_aarch64.deb
+pkg install ./tam_1.3_aarch64.deb
 
 TAM
 
 **OR**
 
-apt install ./tam_1.2_aarch64.deb
+apt install ./tam_1.3_aarch64.deb
 
 TAM
 
